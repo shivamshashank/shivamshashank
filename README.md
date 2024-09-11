@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shivamkumar872000@gmail.com**
 
-- 📄 Know about my experiences [Shivam Shashank CV](https://drive.google.com/file/d/1RBxsI7rOahE-7cAc6opddIJrLjibS0gW/view?usp=sharing)
+- 📄 Know about my experiences [Shivam Shashank CV](https://docs.google.com/document/d/1o7QB83xahyk6vmGVUAI8wXS-VkbCJsVzgjSpcRCsC-4/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
