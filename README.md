@@ -1,21 +1,19 @@
-![MasterHead](https://drive.google.com/uc?id=1jmM8mhl5TWz8jS18XISd68RUIVb9SBsm)
+<img src="https://drive.google.com/uc?id=1nuJ4COVVSF-rMq8fx-qP0gZQ7W_AtNSV" width="1024" height="420"/>
 
 <h1 align="center">Hi 👋, I'm Shivam Shashank</h1>
-<h3 align="center">Mobile Engineer 🔥 | (Flutter & Dart) | (Android)</h3>
+<h3 align="center">Cloud Engineer ☁️ | (Python & Golang) | (Devops)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshashank&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshashank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshashank" alt="shivamshashank" /></a> </p>
 
-- 🔭 I’m currently working on [Localica](https://play.google.com/store/apps/details?id=com.BrighterBee.Tech.localica&hl=en_IN&gl=US)
-
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently learning **Nginx, OpenTelemetry**
 
 - 👨‍💻 All of my projects are available at [https://shivamshashank.netlify.app/](https://shivamshashank.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@shivam.shashank872000](https://medium.com/@shivam.shashank872000)
 
-- 💬 Ask me about **Flutter, Android, Jetpack Compose**
+- 💬 Ask me about **Docker, Kubernetes, Prometheus & Grafana**
 
 - 📫 How to reach me **shivamkumar872000@gmail.com**
 
