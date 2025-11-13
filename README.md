@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nginx, OpenTelemetry**
 
-- 👨‍💻 All of my projects are available at [https://shivamshashank.netlify.app/](https://shivamshashank.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shivam-shashank.me/](https://shivam-shashank.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@shivam.shashank872000](https://medium.com/@shivam.shashank872000)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shivamkumar872000@gmail.com**
 
-- 📄 Know about my experiences [Shivam Shashank CV](https://drive.google.com/file/d/11hecS1DzKHSf_B0xEOnzEnik7n0k5xlf)
+- 📄 Know about my experiences [Shivam Shashank CV](https://drive.google.com/file/d/1TaNFUSeMBpbhTym_E-8L2e4dwaDQaZkw/)
 
 - ⚡ Fun fact **I think I am funny**
 
